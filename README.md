@@ -1,8 +1,8 @@
 <!-- Typing Animation Banner -->
 <div align="center">
-  <a href="https://github.com/davidxml">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=4000&pause=1000&color=00FF00&width=850&lines=Building+the+brains+behind+tomorrow's+autonomous+systems...;Redefining+autonomy...;Still+developing,+actively+building...;Designing+the+future+one+line+of+code+at+a+time." alt="Typing SVG"/>
-  </a>
+  <a href="https://github.com/davidxml">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=4000&pause=1000&color=FF8C00&width=850&lines=Building+the+brains+behind+tomorrow's+autonomous+systems...;Redefining+autonomy...;Still+developing,+actively+building...;Designing+the+future+one+line+of+code+at+a+time." alt="Typing SVG"/>
+  </a>
 </div>
 
 
