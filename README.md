@@ -1,7 +1,7 @@
 <!-- Typing Animation Banner -->
 <div align="center">
   <a href="https://github.com/davidxml">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=6000&pause=1000&color=00FF00&width=850&lines=Building+the+brains+behind+tomorrow's+autonomous+systems...;Driven+to+deploy+innovative,+intelligent+systems+that+redefines+security...;Redefining+the+future+of+autonomy...;Deeply+involved+in+exploring+the+design+of+autonomous+->;...decision-making+systems+and+AI+agents.;Constantly+growing+my+core+software+engineering+skills+through+->+...;...Hands-on+technical+challenges.;Bridging+logic+and+unpredictability+to+craft+truly+innovative+->+...;....algorithms+and+systems." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=6000&pause=1000&color=00FF00&width=850&lines=Building+the+brains+behind+tomorrow's+autonomous+systems...;Driven+to+deploy+innovative,+intelligent+systems+that+redefines+security...;Redefining+the+future+of+autonomy...;Deeply+involved+in+exploring+the+design+of+autonomous+->;...decision-making+systems+and+AI+agents.;Constantly+growing+my+core+software+engineering+skills+through+->+...;...Hands-on+technical+challenges.;Bridging+logic+and+unpredictability+to+craft+truly+innovative+->+...;....algorithms+and+systems.;Actively+building." alt="Typing SVG"/>
   </a>
 </div>
 
