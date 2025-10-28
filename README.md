@@ -56,7 +56,7 @@ I love cognitive computing and the robotics application of AI. I’m deeply inte
 🏙️ **UrbanEye (ACSS)** —> *Autonomous Crime Surveillance System* — a confidential project focused on building intelligent drone-based security and exploration systems. *(Repository currently private)*  
 💼 **Saiket Systems Internship** —> where I grew as a software engineer through hands-on projects.  
 🎲 **Algorithm of Chance** —> a creative experiment merging logic and unpredictability.  
-🌌 Space-Exploration-ChatBot —> Python-based chatbot with knowledge of astronomy and space topics; demonstrates AI interaction, natural language handling, and project-focused learning. 
+🤖 **Space-Exploration-ChatBot** —> Python-based chatbot with knowledge of astronomy and space topics; demonstrates AI interaction, natural language handling, and project-focused learning. 
 
 ---
 
