@@ -1,7 +1,7 @@
 <!-- Typing Animation Banner -->
 <div align="center">
   <a href="https://github.com/davidxml">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=4000&pause=1000&color=FF8C00&width=850&lines=Building+the+brains+behind+tomorrow's+autonomous+systems...;Redefining+autonomy...;Still+developing,+actively+building...;Designing+the+future+one+line+of+code+at+a+time." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=4000&pause=1000&color=FF8C00&width=850&lines=Building+The+Brains+Behind+Tomorrow's+Autonomous+Systems...;Redefining+Autonomy...;Still+Developing,+Actively+Building...;Designing+The+Future+One+Line+Of+Code+At+a+Time." alt="Typing SVG"/>
   </a>
 </div>
 
@@ -51,12 +51,12 @@ I love cognitive computing and the robotics application of AI. I’m deeply inte
 
 ---
 
-### 🚀 Projects That Define Me  
+### 🚧 Deep Dives: Technical & Foundational Projects  
 
-🏙️ **UrbanEye (ACSS)** — *Autonomous Crime Surveillance System* — a confidential project focused on building intelligent drone-based security and exploration systems. *(Repository currently private)*  
-💼 **Saiket Systems Internship** — where I grew as a software engineer through hands-on projects.  
-🎲 **Algorithm of Chance** — a creative experiment merging logic and unpredictability.  
-🤖 **AI Agents Playground** — exploring the design of autonomous decision-making systems.  
+🏙️ **UrbanEye (ACSS)** —> *Autonomous Crime Surveillance System* — a confidential project focused on building intelligent drone-based security and exploration systems. *(Repository currently private)*  
+💼 **Saiket Systems Internship** —> where I grew as a software engineer through hands-on projects.  
+🎲 **Algorithm of Chance** —> a creative experiment merging logic and unpredictability.  
+🌌 Space-Exploration-ChatBot —> Python-based chatbot with knowledge of astronomy and space topics; demonstrates AI interaction, natural language handling, and project-focused learning. 
 
 ---
 
