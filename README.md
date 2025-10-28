@@ -1,8 +1,8 @@
 <!-- Typing Animation Banner -->
 <div align="center">
-  <a href="https://github.com/davidxml">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=4000&pause=1000&color=FF8C00&width=850&lines=Building+The+Brains+Behind+Tomorrow's+Autonomous+Systems...;Redefining+Autonomy...;Still+Developing,+Actively+Building...;Designing+The+Future+One+Line+Of+Code+At+a+Time." alt="Typing SVG"/>
-  </a>
+  <a href="https://github.com/davidxml">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=6000&pause=1000&color=00FF00&width=850&lines=Building+the+brains+behind+tomorrow's+autonomous+systems...;Driven+to+deploy+innovative,+intelligent+systems+that+redefines+security...;Redefining+the+future+of+autonomy...;Deeply+involved+in+exploring+the+design+of+autonomous+->;...decision-making+systems+and+AI+agents.;Constantly+growing+my+core+software+engineering+skills+through+->+...;...Hands-on+technical+challenges.;Bridging+logic+and+unpredictability+to+craft+truly+innovative+->+...;....algorithms+and+systems." alt="Typing SVG"/>
+  </a>
 </div>
 
 
@@ -15,7 +15,7 @@ I’m passionate about Artificial Intelligence, Machine Learning, Robotics, and 
 
 I got into tech when I fell in love with autonomous systems, especially the early self-driving cars that were being built at the time. I loved mechatronics, but soon discovered that I enjoy writing the code myself and being in control of how the system behaves.  
 
-What keeps me going is the belief that one day I will be able to build the intelligent systems I have always dreamed of creating.  
+What keeps me going is the belief that one day with consistent efforts I will be finally able to build the intelligent systems I have always wanted to build.  
 
 ---
 
