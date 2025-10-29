@@ -83,13 +83,15 @@ I’m inspired by the limitless potential of AI and robotics to transform securi
 
 ---
 
+
 ## 📊 GitHub Activity & Stats
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidxml&show_icons=true&theme=radical&show_rank=false&rank_icon=github)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidxml&show_icons=true&theme=github_dark&show_rank=false&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidxml&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidxml&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=davidxml&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=davidxml&theme=github_dark)
+
 
 ---
 
