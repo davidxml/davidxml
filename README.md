@@ -9,7 +9,7 @@
 
 # 👋 Hey there, I'm **David Adewunmi**  
 
-💡 *Computer Science Student | Aspiring AI & Robotics Engineer | Techpreneur in progress*  
+💡 *Computer Science Student | Aspiring AI & Robotics Software Engineer | Techpreneur in progress*  
 
 I’m passionate about Artificial Intelligence, Machine Learning, Robotics, and building autonomous systems that think, learn, and move like living intelligence.  
 
