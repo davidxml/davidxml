@@ -25,9 +25,6 @@ What keeps me going is the belief that one day with consistent efforts I will be
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -42,8 +39,8 @@ What keeps me going is the belief that one day with consistent efforts I will be
 ### ⚙️ What I Work With  
 
 **Languages:** Python, C, JavaScript, Java  
-**Frameworks & Tools:** Node.js, React, Flask, FastAPI  
-**Currently Learning:** PyTorch, TensorFlow, OpenCV, C++  
+**Frameworks & Tools:**  FastAPI  
+**Currently Learning:** PyTorch, TensorFlow, OpenCV, C++ 
 **Next on My List:** Computer Vision, Reinforcement Learning, and ROS  
 **Also Experienced In:** Machine Learning, MATLAB, Jupyter Notebooks, Matplotlib  
 
@@ -53,7 +50,7 @@ I love cognitive computing and the robotics application of AI. I’m deeply inte
 
 ### 🚧 Deep Dives: Technical & Foundational Projects  
 
-🏙️ **UrbanEye (ACSS)** —> *Autonomous Crime Surveillance System* — a confidential project focused on building intelligent drone-based security and exploration systems. *(Repository currently private)*  
+🏙️ **UrbanEye (ACSS)** —> *Autonomous Crime Surveillance System* — a confidential project focused on building intelligent drone-based security and exploration systems. *(Repository currently private)* 
 💼 **Saiket Systems Internship** —> where I grew as a software engineer through hands-on projects.  
 🎲 **Algorithm of Chance** —> a creative experiment merging logic and unpredictability.  
 🤖 **Space-Exploration-ChatBot** —> Python-based chatbot with knowledge of astronomy and space topics; demonstrates AI interaction, natural language handling, and project-focused learning. 
