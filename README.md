@@ -9,9 +9,9 @@
 
 # 👋 Hey there, I'm **David Adewunmi**  
 
-💡 *Computer Science Student | Aspiring AI & Robotics Software Engineer | Techpreneur in progress*  
+💡 *Computer Science Student | Software Engineer | Techpreneur in progress*  
 
-I’m passionate about Artificial Intelligence, Machine Learning, Robotics, and building autonomous systems that think, learn, and move like living intelligence.  
+I’m passionate about Artificial Intelligence, Machine Learning,m and building autonomous systems that think and learn like living intelligence.  
 
 I got into tech when I fell in love with autonomous systems, especially the early self-driving cars that were being built at the time. I loved mechatronics, but soon discovered that I enjoy writing the code myself and being in control of how the system behaves.  
 
