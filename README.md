@@ -1,28 +1,23 @@
 <!-- Typing Animation Banner -->
 <div align="center">
   <a href="https://github.com/davidxml">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=6000&pause=1000&color=00FF00&width=850&lines=Building+the+brains+behind+tomorrow's+autonomous+systems...;Driven+to+deploy+innovative,+intelligent+systems+that+redefines+security...;Redefining+the+future+of+autonomy...;Deeply+involved+in+exploring+the+design+of+autonomous+->;...decision-making+systems+and+AI+agents.;Constantly+growing+my+core+software+engineering+skills+through+->+...;...Hands-on+technical+challenges.;Bridging+logic+and+unpredictability+to+craft+truly+innovative+->+...;....algorithms+and+systems.;Actively+building." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=5000&pause=1000&color=00FF00&width=850&lines=Engineering+scalable+backend+systems+and+APIs...;Architecting+AI-integrated+software+solutions...;Optimizing+algorithms+for+high-performance+execution...;Designing+concurrent+and+event-driven+systems...;Writing+clean,+production-ready+code..." alt="Typing SVG"/>
   </a>
 </div>
 
+# 👋 Hey there, I'm David Adewunmi
+**Software Engineer | Computer Science Student | Backend Systems & AI Architecture**
 
-
-# 👋 Hey there, I'm **David Adewunmi**  
-
-💡 *Computer Science Student | Software Engineer | Techpreneur in progress*  
-
-I’m passionate about Artificial Intelligence, Machine Learning,m and building autonomous systems that think and learn like living intelligence.  
-
-I got into tech when I fell in love with autonomous systems, especially the early self-driving cars that were being built at the time. I loved mechatronics, but soon discovered that I enjoy writing the code myself and being in control of how the system behaves.  
-
-What keeps me going is the belief that one day with consistent efforts I will be finally able to build the intelligent systems I have always wanted to build.  
+I am a Software Engineer dedicated to building robust, scalable backend systems and intelligent applications. While my foundation is in Computer Science, my focus is strictly on engineering execution: writing optimized code, designing clean architectures, and shipping production-ready software. I specialize in integrating machine learning and autonomous agents into practical, high-performance applications.
 
 ---
+## 🧠 Skills & Tools 
 
-## 🧠 Skills & Tools  
+My workflow prioritizes high-speed execution and developer mobility. I leverage a **Linux, Termux, and Neovim** environment to write code and deploy pipelines seamlessly across my laptop and mobile devices.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -34,90 +29,35 @@ What keeps me going is the belief that one day with consistent efforts I will be
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
 </p>
 
----
+## Technical Projects
 
-### ⚙️ What I Work With  
-
-**Languages:** Python, C, JavaScript, Java  
-**Frameworks & Tools:**  FastAPI  
-**Currently Learning:** PyTorch, TensorFlow, OpenCV, C++ 
-**Next on My List:** Computer Vision, Reinforcement Learning, and ROS  
-**Also Experienced In:** Machine Learning, MATLAB, Jupyter Notebooks, Matplotlib  
-
-I love cognitive computing and the robotics application of AI. I’m deeply interested in developing AI Agents, Super AI, and eventually AGI.  
+* **Synk:** Engineered the backend for an AI-powered P2P service marketplace utilizing multilingual NLP, GPS routing, and secure Squad API escrow integrations. *(Top 34, Squad Hackathon)*.
+* **UrbanEye:** Architecting the software infrastructure for a confidential autonomous crime surveillance system, integrating real-time computer vision pipelines for threat detection.
+* **MIT Educate the Teachers:** Developed and deployed the static web platform and automated CI/CD deployment pipelines for the fellowship directory --> https://mitettfellows.org
+* **Royce:** Built a modular conversational RAG backend delivering astronomy facts using Python, FastAPI, and local FAISS vector stores.
 
 ---
 
-### 🚧 Deep Dives: Technical & Foundational Projects  
+## 📊 Analytics
 
-🏙️ **UrbanEye (ACSS)** —> *Autonomous Crime Surveillance System* — a confidential project focused on building intelligent drone-based security and exploration systems. *(Repository currently private)* 
-💼 **Saiket Systems Internship** —> where I grew as a software engineer through hands-on projects.  
-🎲 **Algorithm of Chance** —> a creative experiment merging logic and unpredictability.  
-🤖 **Space-Exploration-ChatBot** —> Python-based chatbot with knowledge of astronomy and space topics; demonstrates AI interaction, natural language handling, and project-focused learning. 
-
----
-
-## 💼 Software Development Internship @ Saiket Systems  
-
-During my internship at Saiket Systems, I worked on a series of projects that strengthened my foundation as a developer.  
-I designed tools, consumed APIs, built front-end apps, and improved my understanding of modular programming.  
-It was a hands-on experience that taught me to think like an engineer, not just a coder.  
-
-**Highlights:**  
-- Built an EMI Calculator, API Data Fetcher, and Contact Book using Python  
-- Created a Front-End Blog App with HTML, CSS, and JavaScript  
-- Practiced clean coding, debugging, and version control with Git  
-- Worked with modular design, input validation, and client-side storage  
-
-This internship shaped how I approach problem-solving and helped me see software as a way to design real-world impact.  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidxml&show_icons=true&theme=github_dark&show_rank=false&rank_icon=github" alt="David's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidxml&theme=github_dark&layout=compact" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=davidxml&theme=github_dark" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🛰️ My Vision  
-
-To build intelligent systems that can **perceive**, **reason**, and **act** — shaping a world where humans and machines work together in harmony.  
-I’m inspired by the limitless potential of AI and robotics to transform security, mobility, and exploration.  
-
----
-
-
-## 📊 GitHub Activity & Stats
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidxml&show_icons=true&theme=github_dark&show_rank=false&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidxml&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=davidxml&theme=github_dark)
-
-
----
-
-## 🌐 Connect With Me  
+## 🌐 Connect  
 
 <p align="center">
   <a href="https://github.com/davidxml"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/david-adewunmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/david_adewunmi_"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100091674964743"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="mailto:pycodegenius@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
 
 🌱 *Good things take time and might even take forever if capacity is not built for it*  - **David Adewunmi (2025)**
-
-
-<!--
-**davidxml/davidxml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
