@@ -38,18 +38,6 @@ My workflow prioritizes high-speed execution and developer mobility. I leverage 
 
 ---
 
-## 📊 Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidxml&show_icons=true&theme=github_dark&show_rank=false&rank_icon=github" alt="David's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidxml&theme=github_dark&layout=compact" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=davidxml&theme=github_dark" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🌐 Connect  
 
 <p align="center">
