@@ -6,7 +6,7 @@
 </div>
 
 # 👋 Hey there, I'm David Adewunmi
-**Software Engineer | Computer Science Student | Backend Systems & AI Architecture**
+**Software Engineer | Computer Science Major | Backend Systems & AI Architecture**
 
 I am a Software Engineer dedicated to building robust, scalable backend systems and intelligent applications. While my foundation is in Computer Science, my focus is strictly on engineering execution: writing optimized code, designing clean architectures, and shipping production-ready software. I specialize in integrating machine learning and autonomous agents into practical, high-performance applications.
 
