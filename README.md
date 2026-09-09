@@ -31,11 +31,9 @@ My workflow prioritizes high-speed execution and developer mobility. I leverage 
 
 ## Technical Projects
 
-* **Synk:** AI-powered peer-to-peer service marketplace for Nigeria's informal economy. Built the intelligence layer — trust scoring, fraud detection, and price intelligence with Gemini 2.5 Flash — plus Squad API escrow integration. *(Top 34, Squad Hackathon 3.0)*.
-* **UNILAG Emergency Response (UER):** Campus incident-routing system connecting students to medical, fire, and security response teams, with separate reporter and responder interfaces. React, TypeScript, Vite; Spring Boot backend in progress.
-* **Coral:** Spam-detection microservice — TF-IDF + Logistic Regression classifier served through a FastAPI `/predict` endpoint, hitting 98.5% accuracy and 94.3% F1.
-* **Synk3:** Offline-first mobile alarm system for hostel wake-ups. Capacitor/React frontend with a native Kotlin plugin layer, Doze-proof alarms via `AlarmManager`, encrypted local storage with Firebase cloud sync.
-* **Trio:** Android accessibility app reconfiguring a phone's interface for different sensory needs. Kotlin, Jetpack Compose, Clean Architecture — led as project architect for a 3-person team.
+* **Synk:** An AI-powered peer-to-peer service marketplace built for Nigeria's informal economy. I built the intelligence layer, including trust scoring, fraud detection, and price intelligence powered by Gemini 2.5 Flash, along with Squad API escrow integration. Placed Top 34 at Squad Hackathon 3.0.
+* **UNILAG Emergency Response (UER):** A campus incident routing system connecting students to medical, fire, and security response teams through separate reporter and responder interfaces. Built with React, TypeScript, and Vite on the frontend, with a Spring Boot backend currently in progress.
+* **Coral:** A spam detection microservice powered by a TF-IDF and Logistic Regression classifier, served through a FastAPI endpoint. Achieves 98.5% accuracy and a 94.3% F1 score.
 
 ---
 
