@@ -8,7 +8,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hey there, I'm David Adewunmi
 **Software Engineer | Comp-Sci Major | AI/ML + Backend Engineering**
 
-I am a Software Engineer dedicated to building robust, scalable backend systems and intelligent applications. While my foundation is in Computer Science, my focus is strictly on engineering execution: writing optimized code, designing clean architectures, and shipping production-ready software. I get curious about integrating machine learning and autonomous agents into practical, high-performance applications, i know i will someday.
+I am a Software Engineer dedicated to building robust, scalable backend systems and intelligent applications. While my foundation is in Computer Science, my focus is strictly on engineering execution: writing optimized code, designing clean architectures, and shipping production-ready software. I get curious about integrating machine learning and autonomous agents into practical, high-performance applications.
 
 ---
 ## 🧠 Skills & Tools 
