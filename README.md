@@ -29,8 +29,7 @@ My workflow prioritizes high-speed execution and developer mobility. I leverage 
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
 </p>
 
-## Technical Projects
-
+## <img src="/bot.svg" width = "40"> Technical Projects  
 * **Synk:** An AI-powered peer-to-peer service marketplace built for Nigeria's informal economy. I built the intelligence layer, including trust scoring, fraud detection, and price intelligence powered by Gemini 2.5 Flash, along with Squad API escrow integration. Placed Top 34 at Squad Hackathon 3.0.
 * **UNILAG Emergency Response (UER):** A campus incident routing system connecting students to medical, fire, and security response teams through separate reporter and responder interfaces. Built with React, TypeScript, and Vite on the frontend, with a Spring Boot backend currently in progress.
 * **Coral:** A spam detection microservice powered by a TF-IDF and Logistic Regression classifier, served through a FastAPI endpoint. Achieves 98.5% accuracy and a 94.3% F1 score.
