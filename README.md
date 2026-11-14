@@ -45,4 +45,4 @@ My workflow prioritizes high-speed execution and developer mobility. I leverage 
 </p>
 
 
-🌱 *Good things take time and might even take forever if capacity is not built for it*  - **David Adewunmi (2025)**
+🌱 *Good things take time and might even take forever if capacity is not built for it*  - **David Adewunmi (2026)**
